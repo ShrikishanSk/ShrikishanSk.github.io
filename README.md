@@ -1,2 +1,1 @@
-# ShrikishanSk.github.io
-Mayank rand
+# Welcome to Sk's World
