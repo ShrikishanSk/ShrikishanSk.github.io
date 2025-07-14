@@ -1,0 +1,11 @@
+.hero {
+  background-image: url('teen.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 180px 20px;
+  color: white;
+}
+.card img {
+  height: 300px;
+  object-fit: cover;
+}
